@@ -5,8 +5,6 @@
 Data scientist with experience in developing data-demanding applications, image analysis and classification, time series prediction, and outlier detection to solve challenging business problems in diverse industries.
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at [Itera](https://itera.com) as Data Scientist
 - 🌱 I’m currently gathering knowledge & experience on Data Science & MLOps
 
