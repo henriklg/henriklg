@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-henriklg-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriklg/)](https://www.linkedin.com/in/henriklg/)
 [![Twitter Badge](https://img.shields.io/badge/-@henrik_lg-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/henrik_lg)](https://twitter.com/henrik_lg)
-[![Hotmail Badge](https://img.shields.io/badge/zahid-Email-brightgreenc14438?style=flat&logo=MicrosoftOutlook&logoColor=green&link=mailto:henrik.lg@hotmail.com)](mailto:henrik.lg@hotmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/henrik.lg-Email-brightgreenc14438?style=flat&logo=MicrosoftOutlook&logoColor=green&link=mailto:henrik.lg@hotmail.com)](mailto:henrik.lg@hotmail.com)
 
 ## Already Played with
 [![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
