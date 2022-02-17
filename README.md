@@ -22,18 +22,18 @@ Data scientist with 3+ years of professional experience in developing data-deman
 [![Hotmail Badge](https://img.shields.io/badge/henrik.lg-Email-brightgreenc14438?style=flat&logo=MicrosoftOutlook&logoColor=green&link=mailto:henrik.lg@hotmail.com)](mailto:henrik.lg@hotmail.com)
 
 ## Already Played with
-[![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
-[![Pandas Badge](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
-[![Plotly Badge](https://img.shields.io/badge/-Plotly-black?style=flat&logo=Plotly&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
-[![Anaconda Badge](https://img.shields.io/badge/-Anaconda-black?style=flat&logo=Anaconda&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
-[![Jupyter Badge](https://img.shields.io/badge/-Jupyter-black?style=flat&logo=Jupyter&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
-[![NumPy Badge](https://img.shields.io/badge/-NumPy-black?style=flat&logo=NumPy&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
-[![Docker Badge](https://img.shields.io/badge/-Docker-black?style=flat&logo=Docker&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
-[![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=Kubernetes&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
-[![Git Badge](https://img.shields.io/badge/-Git-black?style=flat&logo=Git&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
-[![Linux Badge](https://img.shields.io/badge/-Linux-black?style=flat&logo=Linux&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
-[![Google Colab Badge](https://img.shields.io/badge/-GoogleColab-black?style=flat&logo=GoogleColab&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-black?style=flat&logo=Kaggle&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white&link=https://www.linkedin.com/in/henriklg/)]()
+[![Pandas Badge](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=white&link=https://www.linkedin.com/in/henriklg/)]()
+[![Plotly Badge](https://img.shields.io/badge/-Plotly-black?style=flat&logo=Plotly&logoColor=white&link=https://www.linkedin.com/in/henriklg/)]()
+[![Anaconda Badge](https://img.shields.io/badge/-Anaconda-black?style=flat&logo=Anaconda&logoColor=white&link=https://www.linkedin.com/in/henriklg/)]()
+[![Jupyter Badge](https://img.shields.io/badge/-Jupyter-black?style=flat&logo=Jupyter&logoColor=white&link=https://www.linkedin.com/in/henriklg/)]()
+[![NumPy Badge](https://img.shields.io/badge/-NumPy-black?style=flat&logo=NumPy&logoColor=white&link=https://www.linkedin.com/in/henriklg/)]()
+[![Docker Badge](https://img.shields.io/badge/-Docker-black?style=flat&logo=Docker&logoColor=white&link=https://www.linkedin.com/in/henriklg/)]()
+[![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=Kubernetes&logoColor=white&link=https://www.linkedin.com/in/henriklg/)]()
+[![Git Badge](https://img.shields.io/badge/-Git-black?style=flat&logo=Git&logoColor=white&link=https://www.linkedin.com/in/henriklg/)]()
+[![Linux Badge](https://img.shields.io/badge/-Linux-black?style=flat&logo=Linux&logoColor=white&link=https://www.linkedin.com/in/henriklg/)]()
+[![Google Colab Badge](https://img.shields.io/badge/-GoogleColab-black?style=flat&logo=GoogleColab&logoColor=white&link=https://www.linkedin.com/in/henriklg/)]()
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-black?style=flat&logo=Kaggle&logoColor=white&link=https://www.linkedin.com/in/henriklg/)]()
 
 <hr>
 
