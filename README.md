@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!</h1>
 
 <strong>Data Science & Big Data Analysis Enthusiasts | Python & Azure Expert</strong>
 
