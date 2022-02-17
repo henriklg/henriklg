@@ -1,9 +1,7 @@
+****
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!</h1>
 
 <strong>Data Science & Big Data Analysis Enthusiasts | Python & ML Expert</strong>
-
-<!-- **henriklg/henriklg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 Data scientist with 3+ years of professional experience in developing data-demanding applications, image analysis and classification, time series prediction, and outlier detection to solve challenging business problems in diverse industries.
 
 - 🔭 I’m currently working at [Itera](https://itera.com) as Data Scientist
