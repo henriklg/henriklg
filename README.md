@@ -22,7 +22,7 @@ Data scientist with 3+ years of professional experience in developing data-deman
 [![Hotmail Badge](https://img.shields.io/badge/henrik.lg-Email-brightgreenc14438?style=flat&logo=MicrosoftOutlook&logoColor=green&link=mailto:henrik.lg@hotmail.com)](mailto:henrik.lg@hotmail.com)
 
 ## Already Played with
-[![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white)]()
+[![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white&link=https://www.linkedin.com/in/henriklg/)]()
 [![Pandas Badge](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=white&link=https://www.linkedin.com/in/henriklg/)]()
 [![Plotly Badge](https://img.shields.io/badge/-Plotly-black?style=flat&logo=Plotly&logoColor=white&link=https://www.linkedin.com/in/henriklg/)]()
 [![Anaconda Badge](https://img.shields.io/badge/-Anaconda-black?style=flat&logo=Anaconda&logoColor=white&link=https://www.linkedin.com/in/henriklg/)]()
