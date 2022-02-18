@@ -1,4 +1,5 @@
-****
+![skies2](https://user-images.githubusercontent.com/42809697/154512767-3a05a4d7-8413-490d-8d1b-63519800d991.png)
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!</h1>
 
 <strong>Data Science & Big Data Analysis Enthusiasts | Python & ML Expert</strong>
