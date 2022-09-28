@@ -46,4 +46,4 @@ Data scientist with 3+ years of professional experience in developing data-deman
 
 <hr>
 
-"The only impossible journey is the one you never begin." <em>-Tony Robbins</em>
+"The harder the climb, the better the view."
