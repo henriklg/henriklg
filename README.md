@@ -4,10 +4,10 @@
 
 <strong>Data Science & Big Data Analysis Enthusiasts | Python & ML Expert</strong>
 
-Data scientist with 3+ years of professional experience in developing data-demanding applications, image analysis and classification, time series prediction, and outlier detection to solve challenging business problems in diverse industries.
+Data scientist with 4+ years of professional experience in developing data-demanding applications, image analysis and classification, time series prediction, and outlier detection to solve challenging business problems in diverse industries.
 
-- 🔭 I’m currently working at [Itera](https://itera.com) as Data Scientist
-- 🌱 I’m currently gathering knowledge & experience on Data Science & MLOps
+- 🔭 I’m currently working at [Bane NOR](https://banenor.no) as a Data Scientist
+- 🌱 I’m currently gathering knowledge & experience on Data Science, DataOps & MLOps
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -22,7 +22,7 @@ Data scientist with 3+ years of professional experience in developing data-deman
 [![Twitter Badge](https://img.shields.io/badge/-@henrik_lg-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/henrik_lg)](https://twitter.com/henrik_lg)
 [![Hotmail Badge](https://img.shields.io/badge/henrik.lg-Email-brightgreenc14438?style=flat&logo=MicrosoftOutlook&logoColor=green&link=mailto:henrik.lg@hotmail.com)](mailto:henrik.lg@hotmail.com)
 
-## Already Played with
+## Skills
 [![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white&link=https://www.linkedin.com/in/henriklg/)]()
 [![Pandas Badge](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=white&link=https://www.linkedin.com/in/henriklg/)]()
 [![Plotly Badge](https://img.shields.io/badge/-Plotly-black?style=flat&logo=Plotly&logoColor=white&link=https://www.linkedin.com/in/henriklg/)]()
